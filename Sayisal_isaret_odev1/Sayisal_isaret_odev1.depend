@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583849482 source:c:\users\ozgur\desktop\sayisal_isaret_odev1\main.c
+	<stdio.h>
+	<stdlib.h>
+
